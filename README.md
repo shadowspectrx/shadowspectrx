@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on AI integrated CHATBOT<br>🤝 I’m looking for help with the frontend of Chatbot<br>🌱 I’m currently learning cloud security<br>💬 Ask me about the cyber security<br>⚡ Fun fact IDK much about cloud  
 
 
